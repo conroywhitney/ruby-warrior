@@ -45,3 +45,7 @@ require 'ruby_warrior/abilities/direction_of'
 require 'ruby_warrior/abilities/explode'
 require 'ruby_warrior/abilities/detonate'
 require 'ruby_warrior/abilities/form'
+
+
+require "#{File.dirname(__FILE__)}/../konreu-intermediate/abilities/injured.rb"
+require "#{File.dirname(__FILE__)}/../konreu-intermediate/abilities/melee.rb"
