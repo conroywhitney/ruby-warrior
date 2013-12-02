@@ -6,3 +6,5 @@ group :test do
   gem 'cucumber'
   gem 'mocha'
 end
+
+gem "rubywarrior"
